@@ -1,0 +1,8 @@
+Leap Year:
+
+Start
+initialize variable year 
+declare variable year
+year%4==0
+print 'Its a Leap Year' or 'Not an Leap Year'
+Stop
