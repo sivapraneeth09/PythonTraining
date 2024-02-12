@@ -1,0 +1,10 @@
+Primeno or not:
+
+start
+initialize variables i,n
+declare i=2
+i<n
+n%i==0
+i=i+1
+if i==n print "prime no." or "not prime"
+stop
